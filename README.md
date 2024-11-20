@@ -4,3 +4,4 @@
 IPYNB notebooks for UT Data Science (11주차)
 
 10장 – 케라스를 사용한 인공 신경망 소개
+https://colab.research.google.com/drive/1tTXwm-Emf2PIex3HyREjqB9G1TP1WhP1?usp=sharing
